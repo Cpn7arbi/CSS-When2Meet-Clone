@@ -1,0 +1,37 @@
+body {
+    background-color: #040031; 
+    color: white; 
+    font-family: Arial, sans-serif;
+}
+
+
+
+
+nav{
+    background-color: rgb(54, 54, 54);
+  
+    width: 100%;
+}
+    nav ul li{
+    display: inline;
+    margin-left: 20px;
+    border-right: 3px solid white;
+    padding-right: 10px;
+    font-size: 32px;
+    }
+    
+    nav ul li a{
+    text-decoration: none;
+
+    }
+
+
+
+footer {
+    background-color: #333; 
+    color: white; 
+    text-align: center; 
+    position: fixed; 
+    bottom: 0;
+    width: 100%; 
+}
